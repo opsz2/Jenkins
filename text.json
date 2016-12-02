@@ -1,0 +1,30 @@
+{
+  "_class" : "hudson.model.Hudson",
+  "jobs" : [
+    {
+      "_class" : "hudson.model.FreeStyleProject",
+      "name" : "Test1",
+      "color" : "red"
+    },
+    {
+      "_class" : "hudson.model.FreeStyleProject",
+      "name" : "Test2",
+      "color" : "blue"
+    },
+    {
+      "_class" : "hudson.model.FreeStyleProject",
+      "name" : "Test3",
+      "color" : "red"
+    },
+    {
+      "_class" : "hudson.model.FreeStyleProject",
+      "name" : "Test4",
+      "color" : "blue"
+    },
+    {
+      "_class" : "hudson.model.FreeStyleProject",
+      "name" : "test5",
+      "color" : "blue"
+    }
+  ]
+}
